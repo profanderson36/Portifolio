@@ -25,5 +25,5 @@ Tiago Herbert | Tiagohebert22@gmail.com |
 
 ### Sprint 3 - Desenvolvimento do Projeto em React
 
-> https://replit.com/@TiagoHebert
+> https://rigthselection-1.tiagohebert.repl.co/
 
