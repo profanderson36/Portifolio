@@ -20,7 +20,7 @@ Tiago Herbert | Tiagohebert22@gmail.com |
 
 ### Sprint 2 - Descrição de Casos de Testes do Projeto Desenvolvido em HTML + CSS
 
-> https://docs.google.com/spreadsheets/d/1MoICcIeGeWzoprSVsXtXJx0KjCqIMK4cvzoZdgLW8IY/edit#gid=0
+> https://docs.google.com/spreadsheets/d/1MoICcIeGeWzoprSVsXtXJx0KjCqIMK4cvzoZdgLW8IY/edit?usp=sharing
 > 
 
 ### Sprint 3 - Desenvolvimento do Projeto em React
