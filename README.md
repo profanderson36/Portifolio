@@ -15,7 +15,8 @@ Tiago Herbert | Tiagohebert22@gmail.com |
 ### Sprint 1 - Desenvolvimento de Projeto HTML + CSS + JS
  
 > https://Right-Selection.priscillamaia.repl.co
-> [Acessar Pasta do Projeto]
+
+> [Acessar Pasta do Projeto](https://github.com/profanderson36/Portifolio/tree/main/HTML)
 
 ### Sprint 2 - Descrição de Casos de Testes do Projeto Desenvolvido em HTML + CSS + JS
 
