@@ -1,0 +1,267 @@
+
+#body {
+  font-size: 100%;
+  line-height: 1.5;
+  width: 1200px;
+  margin: auto;
+
+}
+
+#div {
+  display: flex;
+  flex-direction: row;
+  grid-area: aside;
+  width: 200px;
+  margin: 10px;
+  position: relative;
+  text-align: center;
+} 
+
+#container{
+  position: relative;
+  margin-left:2%;
+  margin-right:2%;
+  margin-bottom: 1%;
+  margin-top: 2%;
+}
+#social{
+  position: relative;
+  margin-left:2%;
+  margin-right:2%;
+  margin-top: 10%;
+}
+#im3{
+  width: 100%;
+  height: auto;
+}
+#tx1 {
+  
+     font-family: Helvetica;
+     font-style: italic;
+     font-weight: bold;
+     font-size: 32px;
+    }
+#B1{
+    font-family: Helvetica;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 32px;
+}
+#B2{
+    font-family: Helvetica;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+#B3{
+    font-family: Helvetica;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+
+#tx2 {
+     font-family: Tahoma;
+     font-size: 16px;
+     text-align: justify;
+
+}
+
+#tx3 {
+  
+     font-family: Helvetica;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 32px;
+     align-self: center;
+}
+
+#inf{
+      font-family: Tahoma;
+     font-size: 10px;
+}
+#left {
+  width: 50%;
+  float: left;
+}
+
+#right {
+  margin-left: 50%;     
+
+
+}
+
+.cont2 {    
+  margin-left: 10%;
+  
+
+}
+
+.clear {
+  clear: both;
+}
+ul {
+  counter-reset: section;
+  list-style: none;
+}
+
+li {
+  margin: 0 0 10px 0;
+  line-height: 40px;
+}
+
+li:before {
+  content: counter(section);
+  counter-increment: section;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  margin: 0 20px 0 0;
+  border: 1px solid #0b833b;
+  border-radius: 100%;
+  text-align: center;
+  color: #0b833b
+}
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  position: relative; 
+}
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  position: relative; 
+}
+
+
+.button2 {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #dd4b39;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  position: relative; 
+}
+
+.button3 {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #393cdd;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  position: relative; 
+}
+
+.button:hover {background-color: #4CAF50}
+.button2:hover {background-color:#dd4b39}
+.button3:hover {background-color:#3c39dd}
+
+.button:active {
+  background-color: #86eae9;
+  box-shadow: 0 5px #41b8d5;
+  transform: translateY(4px);
+}
+
+.button2:active {
+  background-color: #86eae9;
+  box-shadow: 0 5px #41b8d5;
+  transform: translateY(4px);
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7; 
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+footer {
+    position: absolute;
+    bottom:end;
+}
+
+.pTC {
+  width: 400px;
+  height: auto;
+}
+
+.tx3tP{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+input {
+  margin:0 12px 0 0;
+  vertical-align: middle;
+  position: initial;
+  top: -1px;
+}
+.formacao input{
+  margin-left: 20px;
+  
+}
